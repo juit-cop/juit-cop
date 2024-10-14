@@ -7,7 +7,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I am studying facurity of design at Kyushu University.
+- 🧑‍💻 I am studying facurity of design at Kyushu University.<br>
+https://github.com/juit-cop/juit-cop/issues/1#issue-2586754065
 - 💻 I specialize in CG systems and web application development
 <br>
 

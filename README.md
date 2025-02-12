@@ -7,7 +7,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I am studying facurity of design at Kyushu University.<br>
+- 🧑‍💻 I am learning design at Kyushu University.<br>
 
 - 💻 I specialize in CG systems and web application development
 <br>
